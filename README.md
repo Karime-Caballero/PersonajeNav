@@ -3,6 +3,10 @@
 
 -Jesús niño
 
+## Integrantes
+- Karime Alejandra Caballero Campos
+- Morales Navarro Oscar Daniel
+
 ## Materiales a utilizar
 
 |nombre de Componente| Descripcion |Cantidad| Precio|
