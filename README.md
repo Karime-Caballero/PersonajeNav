@@ -24,6 +24,7 @@ fotografia del dibujo a a mano alzada
 ## Comunicación
 describir la manera que  creen que utilizaria su celular para comunicarse con el personaje 
 ## Arquitectura
-Diagrama que contenga los sensores , los actuadores(motores ( display) , el microcontrolador(esp32), el servidor 
+Diagrama que contenga los sensores , los actuadores(motores ( display) , el microcontrolador(esp32), el servidor y la base de datos
 ## base de datos 
+Imagen de la tabla o tablas que usarias (ejemplo sensores, actuadores, en un modelo de relaciones)
 
