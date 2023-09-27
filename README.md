@@ -1,9 +1,9 @@
 # Personaje Navideño
-##Nombre de tu personaje
+## Nombre de tu personaje
 
 -Jesús niño
 
-##Materiales a utilizar
+## Materiales a utilizar
 
 |nombre de Componente| Descripcion |Cantidad| Precio|
 |-|-|-|-|
@@ -11,8 +11,19 @@
 |Cables Dupont|cables para conexion de prototipos de pruebas|50|$50
 
 
-##software a utilizar
+## software a utilizar
 |Nombre del software|Versión|Tipo de software|
 |-|-|-|
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software Libre|
+completa la tabla
+
+## prototipo del dibujo
+fotografia del dibujo a a mano alzada 
+
+## Comunicación
+describir la manera que  creen que utilizaria su celular para comunicarse con el personaje 
+## Arquitectura
+Diagrama que contenga los sensores , los actuadores(motores ( display) , el microcontrolador(esp32), el servidor 
+## base de datos 
+
