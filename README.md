@@ -25,7 +25,7 @@
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software Libre|
 |Visual Studio Code|5.0.4|Software Libre|
-| App para iniciar|0.1
+| App para iniciar|0.1|Software Libre|
 
 completa la tabla
 
