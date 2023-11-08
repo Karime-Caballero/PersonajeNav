@@ -26,6 +26,7 @@
 |SSD1602|1.8.1|Software Libre|
 |Visual Studio Code|5.0.4|Software Libre|
 | App para iniciar|0.1|Software Libre|
+|Node Red|
 
 completa la tabla
 
