@@ -33,7 +33,8 @@ completa la tabla
 ## prototipo del dibujo
 fotografia del dibujo a mano alzada 
 
-![WhatsApp Image 2023-09-30 at 5 28 06 PM](https://github.com/Karime-Caballero/PersonajeNav/assets/137373510/11938428-7f73-4d4a-95f5-f6bf9055b364)
+![Uploading image.png…]()
+
 
 
 ## Comunicación
