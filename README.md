@@ -1,4 +1,4 @@
-# Personaje Navideño
+# Personaje Navideño --Niño Jesús
 ## Nombre de tu personaje
 
 -Jesús niño
@@ -48,6 +48,10 @@ Diagrama que contenga los sensores , los actuadores(motores ( display) , el micr
 ## base de datos 
 Imagen de la tabla o tablas que usarias (ejemplo sensores, actuadores, en un modelo de relaciones)
 ![WhatsApp Image 2023-09-30 at 5 00 03 PM](https://github.com/Karime-Caballero/PersonajeNav/assets/137373510/13ce48da-e4b9-429a-bbcd-abe8aeca308b)
+
+##Circuito
+![image](https://github.com/Karime-Caballero/PersonajeNav/assets/137373510/7e342f36-3332-4a86-bf8e-677cbb36d44e)
+
 
 
 
