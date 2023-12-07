@@ -74,6 +74,10 @@ https://github.com/Karime-Caballero/PersonajeNav/assets/137373510/6bf01fe5-939a-
 
 
 
+https://github.com/Karime-Caballero/PersonajeNav/assets/137373510/580144ca-0ef3-414a-ba1c-370b75bd3fe4
+
+
+
 
 https://github.com/Karime-Caballero/PersonajeNav/assets/137373510/4a2f2c2b-1388-4a01-a5e6-11c3d0449cf1
 
