@@ -1,3 +1,5 @@
+
+
 # Personaje Navideño --Niño Jesús
 ## Nombre de tu personaje
 
@@ -61,6 +63,22 @@ link-->https://wokwi.com/projects/380980401468914689
 ## base de datos 
 Imagen de la tabla o tablas que usarias (ejemplo sensores, actuadores, en un modelo de relaciones)
 ![WhatsApp Image 2023-09-30 at 5 00 03 PM](https://github.com/Karime-Caballero/PersonajeNav/assets/137373510/13ce48da-e4b9-429a-bbcd-abe8aeca308b)
+
+##videos
+
+
+Uploading whatsapp-video-2023-1
+
+https://github.com/Karime-Caballero/PersonajeNav/assets/137373510/6bf01fe5-939a-460d-8dd9-f309e32d0835
+
+
+
+
+
+https://github.com/Karime-Caballero/PersonajeNav/assets/137373510/4a2f2c2b-1388-4a01-a5e6-11c3d0449cf1
+
+
+
 
 
 
